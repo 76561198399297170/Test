@@ -1,0 +1,9 @@
+﻿  Game.cpp
+E:\C++EasyX\testProject\Game.cpp(54,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\C++EasyX\testProject\Game.cpp(63,132): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C++EasyX\testProject\Game.cpp(63,118): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C++EasyX\testProject\Game.cpp(122,75): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C++EasyX\testProject\Game.cpp(131,51): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C++EasyX\testProject\Game.cpp(227,22): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\C++EasyX\testProject\Game.cpp(227,18): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  testProject.vcxproj -> E:\C++EasyX\testProject\x64\Debug\testProject.exe

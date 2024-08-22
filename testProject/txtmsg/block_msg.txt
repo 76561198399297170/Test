@@ -1,0 +1,16 @@
+3
+————————————————————
+0
+1
+./img/block/null_block_%d.png
+0
+————————————————————
+1
+1
+./img/block/grass0_block_%d.png
+0
+————————————————————
+2
+4
+./img/block/grass1_block_%d.png
+45 135 135 90
